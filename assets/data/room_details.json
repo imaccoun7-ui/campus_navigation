@@ -1,0 +1,917 @@
+{
+  "about": "Editable per-room facts for Campus Nav. Key = buildingId|room name exactly as written in buildings.json. 'type' is filled in only where the room name states it; capacity and accessibility are unknown and must be measured. Anything left null shows as 'Not available yet' in the app.",
+  "rooms": {
+    "snhs|Accounting Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|University Registrar": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|Cashier Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|Smart Classroom": {
+      "type": "Smart Classroom",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|N-201": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|Dean's Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|SNHS Admin Counter": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|Faculty Room": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|Nursing Informatics Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|Institutional Office of Strategy Management": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|Central Supply Room": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|Nursing Skills Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|Nursing Amphitheater": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|Private Room 1 - N302": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "snhs|Speech Lab - N301": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ste|A-101": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ste|A-102": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ste|A-103": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ste|A-104": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ste|A-201": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ste|A-202": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ste|A-203": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ste|A-204": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "gym|University Bookstore": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "gym|Office of the Physical Development, General Services and Sustainability": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "gym|Supply Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "gym|University Media and Information Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "gym|Media and ID Production Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "gym|BiPSU Water Refilling Station": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "gym|IGP Marketing": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "gym|Side Gym Room A": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "gym|Side Gym Room B": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "andaya|Academics, Research and Innovation Office (inside: Gender and Development Office, Medical Dental Clinic, Records and Archives)": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "andaya|Ex-Pres and Retirees Nook": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "andaya|Disaster Risk Reduction and Management Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "andaya|BEEF SO Highflex and Audio Visual Center": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "andaya|QAA Conference Room": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "andaya|Quality Assurance and Accreditation Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "andaya|AH201": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|Institutional Education Job Placement Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|School of Law and Governance Faculty Room": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|Student Lounges": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|AB-201": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|Director of the Office of Data Analytics and Performance Management": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|BAC Conference": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|BAC and Procurement Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|Supervising Administrative Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|Human Resource Management Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|COA Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|The VP for Administration and Finance": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|AB-301": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "auto|Chief Administrative Officer": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|Habi Space (study hub and co-working spaces)": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|Cafeteria": {
+      "type": "Cafeteria",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-401": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-402": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-403": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-404": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-405 - Economic Lab": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-406 - Smart Classroom": {
+      "type": "Smart Classroom",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-311": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-310 - Smart Classroom": {
+      "type": "Smart Classroom",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-309 - Smart Classroom": {
+      "type": "Smart Classroom",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-308 - Smart Classroom": {
+      "type": "Smart Classroom",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-307 - Smart Classroom": {
+      "type": "Smart Classroom",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-306 - Engineering Computer Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-305 - Electrical Engineering Laboratory Workshop": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-304 - Computer Engineering Laboratory Workshop": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-303 - Hydraulics Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-302 - Computer Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-301 - Computer Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-201 - AutoCAD Lab": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-202 - Data Science Lab": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-203 - Computer Graphics and Video Editing Lab": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|Faculty STCS": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|STCS Accreditation Room": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-204": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-205": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-206 - Mech Lab": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|SOE Accreditation Room": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|SOE (Dean's Office and Faculty Room)": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-207 - Moot Court": {
+      "type": "Sports Facility",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-105 - Machine Shop Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-104 - Welding Shop Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-103 - RAC Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-102 - Electric Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|T-101 - Electronic Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "stcs|Research and Development Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ceramic|C-102": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ceramic|C-101": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ceramic|C-202": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ceramic|C-201": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ceramic|C-304": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "ceramic|C-303": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "maritime|MB-105 - Smart Conference Room": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "maritime|MB-104 - Seamanship Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "maritime|MB-103 - Forensic Computer Lab": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "maritime|102 - ROTC Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "maritime|SCJE Faculty Room": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "maritime|MB-204": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "maritime|MB-203 - Chart Plotting Room": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "maritime|On-Board Training Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "maritime|SMED Dean's Office": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "maritime|MB-202": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "maritime|MB-201": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "bc1|BC-108": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "bc1|BC-107": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "bc1|BC-106": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "bc1|BC-105": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "bc1|BC-104": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "bc1|BC-103": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "bc1|BC-102": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "bc1|BC-101": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-105": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-106": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-107": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-108": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-110": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-111": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-112": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-113": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-114": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-115": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-116": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-117": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-205": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-206": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-207": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-208 - Vice President for Academic Affairs and Lifelong Learnings": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-209": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-210": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|School of Business Management": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|School of Arts and Sciences": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-211": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-212": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-213 - Crime Scene Room": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sas|A-214 - Crime Laboratory": {
+      "type": "Laboratory",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|Faculty": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|Office of the Faculty Regents": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|Parking": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|CR": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|Library / CR": {
+      "type": "Library",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|Office of the Dean": {
+      "type": "Office",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|Library": {
+      "type": "Library",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|SME-402": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|SME-403": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|SME-503": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|SME-502": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|SME-501": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "sme|Rooftop": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "hostel|Food Court": {
+      "type": "Cafeteria",
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    },
+    "hostel|CCTV Control Room": {
+      "type": null,
+      "capacity": null,
+      "accessibility": null,
+      "notes": ""
+    }
+  }
+}

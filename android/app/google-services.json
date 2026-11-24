@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "903392511349",
+    "project_id": "barangay-sumbungan",
+    "storage_bucket": "barangay-sumbungan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903392511349:android:589d25a1aff8963a047f3c",
+        "android_client_info": {
+          "package_name": "com.barangay.sumbungan.barangay_sumbungan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDedngjwEFPbFDNqNLhK0QOpPRU1goBhNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903392511349:android:d56da4ef457d8111047f3c",
+        "android_client_info": {
+          "package_name": "ph.edu.bipsu.campus_nav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDedngjwEFPbFDNqNLhK0QOpPRU1goBhNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
