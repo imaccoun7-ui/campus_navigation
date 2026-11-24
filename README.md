@@ -9,50 +9,6 @@ Flutter 3.35.4 (stable) · Dart 3.9.2 · Android + iOS · fully offline.
 
 ---
 
-## Status
-
-Built and checked:
-
-- All 13 screens in `highfi/` implemented, plus the **Campus Map** (derived — see
-  [Deviations](#deviations-from-the-brief-and-the-designs)).
-- `flutter analyze`: **no issues**.
-- `flutter test`: **41 tests passing** (see [Tests](#tests)).
-- Not run on a physical device or emulator: this build machine has no Android
-  SDK/emulator. Everything below the UI is covered by tests, and the widget
-  tests build the real tree at 360×640 and 430×932.
-
-Settled after the first report: the map scale is calibrated from measured
-distances, the supplied logo is in use, `rooms.txt` was checked against
-`buildings.json`, the parser is tuned on a real SIAS enrolment form, and the GPS
-and room-photo features were removed on request.
-
----
-
-## Screens → design files
-
-| Screen | Route | Design |
-|---|---|---|
-| Splash | `/` | `highfi/01-splash.png` |
-| Onboarding | `/onboarding` | `highfi/02-onboarding.png` |
-| Log in | `/login` | `highfi/03-login.png` |
-| Home | `/home` | `highfi/04-home.png` |
-| Upload Study Load | `/upload` | `highfi/05-upload-study-load.png` |
-| Scanning Study Load | `/scan` | `highfi/06-scanning-study-load.png` |
-| Review/Correct | `/review` | `highfi/07-review-correct.png` |
-| My Schedule | `/schedule` | `highfi/08-my-schedule.png` |
-| Search | `/search` | `highfi/09-results.png` (results state) + derived empty state |
-| Room Details | `/room/:buildingId/:roomIndex` | `highfi/10-room-details.png` |
-| Set Starting Point | `/start` | `highfi/11-set-starting-point.png` |
-| Route | `/route` | `highfi/12-route.png` |
-| Arrival | `/arrival` | `highfi/13-arrival.png` |
-| Campus Map | `/map` | **no design file** — derived from §5 using the same tokens |
-
-The original 13 exports were loose UUID-named PNGs in the project root; they are
-now in `highfi/` with descriptive names in the order above. Nothing else about
-them was changed.
-
----
-
 ## Setup
 
 ```bash
